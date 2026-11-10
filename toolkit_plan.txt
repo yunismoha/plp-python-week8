@@ -1,0 +1,73 @@
+PLP PYTHON WEEK 8 - PERSONAL MINI-TOOLKIT PLAN
+
+PROJECT NAME:
+Personal Mini-Toolkit
+
+TOOLS:
+
+1. Simple Calculator
+This tool allows users to perform addition, subtraction,
+multiplication and division.
+
+Concepts:
+- Variables
+- User input
+- Conditionals
+- Mathematical operators
+- F-strings
+
+2. To-Do List
+This tool allows users to add tasks, view tasks and
+remove completed tasks.
+
+Concepts:
+- Lists
+- Loops
+- Conditionals
+- User input
+- List methods
+
+3. Number Checker
+This tool asks the user for a number and checks whether
+it is positive, negative, zero, even or odd.
+
+Concepts:
+- Variables
+- Input
+- Conditionals
+- Mathematical operators
+- F-strings
+
+4. Name Formatter
+This tool asks for a name and displays it in uppercase,
+lowercase and title case.
+
+Concepts:
+- Strings
+- Variables
+- User input
+- String methods
+- F-strings
+
+MENU TEXT:
+
+=================================
+     PERSONAL MINI-TOOLKIT
+=================================
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Name Formatter
+5. Quit
+=================================
+
+Enter your choice:
+
+PROGRAM FLOW:
+- Display a welcome message.
+- Show the menu.
+- Ask the user to select a tool.
+- Run the selected tool.
+- Return to the menu after the tool finishes.
+- Handle invalid choices politely.
+- Exit when the user selects Quit.
